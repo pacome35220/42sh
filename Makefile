@@ -85,7 +85,7 @@ INC_DIR		=	include/
 
 OBJ		=	$(SRC:.c=.o)
 
-CFLAGS		+=	-W -Wall -Wextra -Werror	\
+CFLAGS		+=	-W -Wall -Wextra	\
 			-I $(INC_DIR)	\
 			-O3
 
