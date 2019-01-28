@@ -12,7 +12,6 @@ $ ./42sh
 - Separator ; || &&
 - Multiples pipes
 - Redirections (< / << / > / >>)
-- Parenthesis
 - Environment variables
 - ~ with users
 - Globbing (*)
